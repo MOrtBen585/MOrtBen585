@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
+[!info]
 [![GitHub Streak](https://streak-stats.demolab.com?user=mortben585&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortben585&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
