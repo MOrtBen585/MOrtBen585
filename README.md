@@ -17,13 +17,13 @@
 <h2 align="left">I code with</h2>
 
 ###
-> [!TIPS]
+> [!TIP]
 > Esto es un consejo
 
 > [!NOTE]
 > Esto es una nota.
 
-> [!WARNIG]
+> [!WARNING]
 > Esto es una Alerta
 
 > [!CAUTION]
