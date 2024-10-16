@@ -17,6 +17,18 @@
 <h2 align="left">I code with</h2>
 
 ###
+> [!TIPS]
+> Esto es un consejo
+
+> [!NOTE]
+> Esto es una nota.
+
+> [!WARNIG]
+> Esto es una Alerta
+
+> [!CAUTION]
+> Esto es peligroso
+
 > [!IMPORTANT]
 > Algo importante.
 
